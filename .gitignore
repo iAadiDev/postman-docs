@@ -76,7 +76,6 @@ yarn-error.log
 .jekyll-metadata
 _site/
 
-
 auth.json
 
 # Ignore temporary bff data used for build
